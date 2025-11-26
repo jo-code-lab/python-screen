@@ -1,0 +1,65 @@
+Key skills are given below:
+• Python – Strong proficiency with at least one web framework (Django, Flask, FAST)
+• SQL & Database Management – PostgreSQL, MySQL
+• NoSQL Databases – Cassandra
+• Message Brokers – Apache Kafka
+• Linux OS – Proficiency in system-level operations
+• Containerization – Docker
+• Container Orchestration – Kubernetes
+• Version Control – Git with complex branching strategies
+• Software Development – Methodologies and best practices
+• Data Structures & Algorithms – Strong understanding and application
+• Object-Oriented Design (OOD) – Modular and flexible software design
+• API Development – RESTful API design and implementation
+• Testing & Debugging – Pytest, automated testing frameworks
+• DevOps Practices – CI/CD pipelines, cloud platforms (AWS, Azure)
+Good to Have
+• Big Data Technologies – Experience preferred
+• Test-Driven Development – Experience with TDD workflows
+
+Detailed JD:
+
+Software Developer (Backend-Developer)
+We are seeking a skilled Backend Software Developer to join our team. This role focuses on designing, developing, and maintaining robust server-side applications and infrastructure using a variety of technologies.
+Years of Experience: 4-6 years
+1. Responsibilities:
+• Design and implement scalable backend systems using Python and Java
+• Develop and maintain RESTful APIs
+• Work with SQL and NoSQL databases, including PostgreSQL, MySQL, and Cassandra
+• Implement and manage message queuing systems using Kafka
+• Containerize applications using Docker and orchestrate with Kubernetes
+• Optimize application performance and ensure high availability
+
+2. Technical Skills:
+• Strong proficiency in Python and at least one Python web framework (e.g., Django, Flask)
+• Programming Languages: Proficiency in Python
+• Expertise in SQL and database management (PostgreSQL, MySQL)
+• Knowledge of NoSQL databases, particularly Cassandra
+• Familiarity with message brokers, especially Apache Kafka
+• Proficiency in Linux operating system
+• Experience with containerization using Docker
+• Understanding of container orchestration with Kubernetes
+• Version control with Git
+• Software Development: Experience with software development methodologies and best practices.
+• Data Structures and Algorithms: Strong understanding and practical application5
+• Object-Oriented Design (OOD): Ability to apply OOD principles for flexible and modular software.
+• Database Management: Knowledge of SQL and experience with both relational and NoSQL databases.
+• Version Control: Proficiency with Git and experience managing complex branching strategies
+• Testing and Debugging: Expertise in software testing methodologies and debugging techniques.
+• API Development: Experience in designing and implementing RESTful APIs
+• DevOps Practices: Familiarity with CI/CD pipelines and cloud platforms (e.g., AWS, Azure)
+• Experience with test-driven development and automated testing frameworks (e.g., Pytest)
+• Experience with Spring Boot framework for Java applications and Java, JavaScript would be nice to have.
+
+3. Soft Skills
+• Problem-solving: Ability to analyze complex issues and develop innovative solutions
+• Communication: Excellent verbal and written communication skills
+• Teamwork: Ability to collaborate effectively in a team environment
+• Attention to Detail: Meticulous approach to coding and documentation
+• Time Management: Capacity to manage multiple projects and meet deadlines
+• Adaptability: Willingness to learn new technologies and methodologies
+4. Qualifications:
+• Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field
+• 5+ years of professional software development experience.
+• Strong portfolio demonstrating proficiency in multiple programming languages and technologies
+• Commitment to writing clean, maintainable, and efficient code
